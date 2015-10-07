@@ -1,0 +1,12 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+charlesandjen
+setuptools-3.4.4.tar.gz
+pip-1.5.6.tar.gz
+setuptools-3.4.4
+pip-1.5.6
+
